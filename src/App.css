@@ -1,0 +1,60 @@
+body{
+	font-family:Maiandra GD;
+	font-weight: bold;
+	background-color: #8EC5FC;
+	background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%)
+}
+.center{
+  margin:auto;
+  margin-left:270px;
+}
+form
+{
+	padding-top:110px; 
+}
+div{
+	display: inline-block;
+	margin:5px; 	
+}
+.heading{
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	font-family:Lucida Bright;
+	text-decoration: underline;
+	text-underline-offset:10px; 
+
+}
+.btn > input{
+	padding:12px 10px; 
+	text-align: center;
+	border-radius:5px;
+	font-weight: bold;
+	font-family:Maiandra GD;
+	word-spacing:2px; 
+	letter-spacing: 1px;
+	margin: 20px 0px;
+}
+.design >input{
+	padding:5px 8px;
+	font-family:Maiandra GD;
+	font-weight: bold;
+}
+.age{
+	margin-bottom:20px;
+	text-transform: capitalize;
+	font-size: 14px;
+}
+.age >input{
+	padding: 8px 4px;
+	font-weight: bold;
+	font-family:Maiandra GD;
+	text-align: center;
+}
+p{
+	border: 1px solid black;
+	background-color: white;
+	padding: 5px 20px;
+}
+
+
+
